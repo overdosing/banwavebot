@@ -7,7 +7,7 @@ prerequisites -
 - [python 3.8+](https://www.python.org/)
 - [nextcord 3.0+](https://github.com/nextcord/nextcord)
 
-after installing the perquisites, execute `banwavebot.py`
+after installing the prerequisites, execute `banwavebot.py`
 
 ## contributing
 
